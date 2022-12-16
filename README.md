@@ -6,5 +6,7 @@ This project is about code refactoring. This means that I have to restructure th
 
 Accessibility is an important aspect of web development because not only it improves SEO - search engine optimization - rankings, but also, accomodates to people with disability. Websites with good SEO are likely to place higher in search engines, such as google.
 
-###Website 
+### Website 
+
+https://sinthiya1.github.io/Social-Solution-Service/
 
