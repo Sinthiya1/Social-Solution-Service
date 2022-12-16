@@ -14,5 +14,5 @@ https://sinthiya1.github.io/Social-Solution-Service/
 ### Screen Shots
 
 
-<img src="01-html-css-git-challenge-demo.png">
+<img src=.assets/images/"01-html-css-git-challenge-demo.png">
 
