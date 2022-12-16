@@ -2,7 +2,9 @@
 
 ### Description
 
-This is a simple website for a marketing company. 
-It ensures that people with disabilities can access this website. 
-To make this website accessible for disable people here Semantic HTML5 and optimised CSS styles has been used also the duplication removed.
+This project is about code refactoring. This means that I have to restructure the coding without affecting the original intended functions of the code. In this challenge, I am to assume the role of a junior developer to refactor the code of a marketing agency to make it more accessible.
+
+Accessibility is an important aspect of web development because not only it improves SEO - search engine optimization - rankings, but also, accomodates to people with disability. Websites with good SEO are likely to place higher in search engines, such as google.
+
+###Website 
 
