@@ -8,5 +8,5 @@ Accessibility is an important aspect of web development because not only it impr
 # 
 ### Website 
 
-https://sinthiya1.github.io/Social-Solution-Service/
+<a href="https://sinthiya1.github.io/Social-Solution-Service/"> Social Solution Service</a>
 
